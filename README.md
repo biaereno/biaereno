@@ -1,5 +1,5 @@
 ### 👋 Hi there! I’m Beatriz,
-but you can call me Be. I'm a QA who enjoys improving products and ensuring quality in digital experiences. 💻✨ I like testing, automating, and working with the team to create great products.
+but you can call me Bea. I'm a QA who enjoys improving products and ensuring quality in digital experiences. 💻✨ I like testing, automating, and working with the team to create great products.
 
 - 🏡 I'm currently living in the state of São Paulo, Brazil
 - 💻 I'm working as a QA at TravelPass Group | UP Outsourcing
